@@ -1,4 +1,4 @@
-//linear search
+//binary search
 
 #include <iostream>
 
