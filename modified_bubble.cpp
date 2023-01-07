@@ -1,4 +1,4 @@
-//bubble sort
+//modified bubble sort
 
 #include <iostream>
 
